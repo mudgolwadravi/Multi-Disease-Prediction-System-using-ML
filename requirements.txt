@@ -1,0 +1,29 @@
+# Essential Python Libraries
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.2
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Machine Learning & AI APIs
+tensorflow==2.16.1
+keras==2.16.0
+xgboost==2.0.3
+
+# Web Framework (For UI)
+streamlit==1.32.2
+
+# OpenAI API (If using GPT-based Chatbot)
+openai==1.14.3
+
+# Google Gemini AI API (If using Gemini)
+google-generativeai==0.8.4
+google-api-python-client==2.166.0
+google-auth==2.38.0
+google-auth-httplib2==0.2.0
+
+# Backend Utilities
+protobuf==4.25.3  # Required for compatibility
+grpcio==1.71.0
+grpcio-status==1.71.0
+requests==2.31.0
